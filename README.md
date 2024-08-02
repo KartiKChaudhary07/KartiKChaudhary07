@@ -1,7 +1,7 @@
 ![logo](https://github.com/KartiKChaudhary07/KartiKChaudhary07/blob/main/Screenshot%202024-08-02%20130540.png)
 <h1 align="center">Hi 👋, I'm Kartik Chaudhary</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" alt="coding" width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3VtXkR5Eu5-6m5B1T4W2Y-&ust=1722671761421000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLiL_8Xq1YcDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikchaudhary07&label=Profile%20views&color=0e75b6&style=flat" alt="kartikchaudhary07" /> </p>
 
