@@ -1,6 +1,8 @@
 ![logo](https://github.com/KartiKChaudhary07/KartiKChaudhary07/blob/main/Screenshot%202024-08-02%20130540.png)
 <h1 align="center">Hello👋, I'm Kartik Chaudhary</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+
 
 - 🌱 I’m currently learning **SpringBoot ,Advanced Java (OOP, Collections, Multithreading), React.js, MongoDB, SQL, and Data Structures & Algorithms.ot,**
 
